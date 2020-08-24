@@ -14,7 +14,7 @@ Calculator made in ReactJS, with classes from <a href="https://www.cod3r.com.br"
 
 ![Calculadora](https://github.com/fredericoberchof/Calculator_React/blob/master/src/Calculator%202.png)
 
-![Calculadora 2] (https://github.com/fredericoberchof/Calculator_React/blob/master/src/Calculator%201.png)
+![Calculadora 2](https://github.com/fredericoberchof/Calculator_React/blob/master/src/Calculator%201.png)
 
 
 
